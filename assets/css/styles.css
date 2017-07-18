@@ -102,7 +102,7 @@ input[type="search"]:focus {
 .nav-content {
   border-radius: 4px 4px 0 0;
   border-top: 10px solid #8d62a0;
-  padding: 30px 0 50px 0;
+  padding: 30px 0 0 0;
   background: white;
   min-height: 669px;
   box-shadow: 0 2px 3px rgba(56,67,67,0.2);
